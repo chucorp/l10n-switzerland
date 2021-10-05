@@ -1,0 +1,5 @@
+xmlunittest
+vcrpy
+pyyaml
+odoo14-addon-account-invoice-export @git+https://github.com/trobz/edi@14.0-mig-account_invoice_export#subdirectory=setup/account_invoice_export
+odoo14-addon-base-ebill-payment-contract @git+https://github.com/phuctranerp/edi@14.0-mig-base_ebill_payment_contract#subdirectory=setup/base_ebill_payment_contract
